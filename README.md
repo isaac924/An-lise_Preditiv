@@ -19,6 +19,8 @@ Nosso objetivo é coletar dados, modelar estatísticas, gerar prescrições e a�
 - google colab
 - kaggle
 - canva
+- scikit-learn
+- matplotlib
 
 ## links relevantes
 
