@@ -25,5 +25,5 @@ Nosso objetivo é coletar dados, modelar estatísticas, gerar prescrições e a�
 ## links relevantes
 
 - slides: https://www.canva.com/design/DAG0FaUM8cc/NUVofSp1A5eLmZXz90O9cQ/edit?utm_content=DAG0FaUM8cc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-- base de dados:
+- base de dados: https://drive.google.com/file/d/104drV4J-TaqHUfdWwnb4RYq2m7CS2Qf0/view?usp=sharing
 - códigos: https://colab.research.google.com/drive/1XLjvZmdd8ejBWB4_7TqQWcIhyOhhhJSP?usp=sharing
