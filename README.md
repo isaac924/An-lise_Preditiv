@@ -7,7 +7,7 @@ Nosso objetivo é coletar dados, modelar estatísticas, gerar prescrições e a�
 ## estrutura do projeto
 
 - **data/** → train.csv (kaggle)
-- **notebooks/** → uma base sobre dados de vendas de uma loja
+- **notebooks/** → [notebook principal da análise](notebooks/Atividade_W_.ipynb)
 - **slides/** → apresentações e materiais de apoio feitos pelo canva
 
 ---
