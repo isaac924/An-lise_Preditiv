@@ -6,9 +6,9 @@ Nosso objetivo é coletar dados, modelar estatísticas, gerar prescrições e a�
 ---
 ## estrutura do projeto
 
-- **data/** → train.csv (kaggle)
+- **data/** → [train](data/train.csv)
 - **notebooks/** → [notebook principal da análise](notebooks/Atividade_W_.ipynb)
-- **slides/** → apresentações e materiais de apoio feitos pelo canva
+- **slides/** → [canva](//www.canva.com/design/DAG0FaUM8cc/NUVofSp1A5eLmZXz90O9cQ/edit?utm_content=DAG0FaUM8cc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 ## Objetivo
